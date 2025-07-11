@@ -1,4 +1,4 @@
-﻿# Url-shortener
+﻿# Url-shortener-App
 # 🔗 URL Shortener with JWT Authentication
 
 A full-stack URL shortener application with secure JWT-based authentication, user-specific analytics, responsive UI, and modular architecture.
